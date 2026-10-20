@@ -1,0 +1,12 @@
+[
+  {
+    "id": "notice_v24_launch",
+    "title": "Version 24.0 Released: Historical Payroll Snapshot & Precision Matchinggggg",
+    "category": "product",
+    "priority": "high",
+    "publishDate": "2026-10-21",
+    "summary": "Version 24.0 is now live with historical payroll snapshots, latest-vs-historical comparison popup, and day-to-day OT amounts.",
+    "content": " this is true test All clients are recommended to update to Version 24.0. This release freezes historical salary registers, introduces 3-field snapshot comparison, and guarantees 100% database preservation.",
+    "isPinned": true
+  },
+  
