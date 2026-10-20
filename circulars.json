@@ -1,0 +1,15 @@
+[
+  {
+    "id": "circ_epfo_advisory_2026",
+    "title": "EPFO CHALLAN DATE EXTENDED TO 31 OCT ",
+    "issuingAuthority": "Employees' Provident Fund Organisation (EPFO)",
+    "category": "EPF",
+    "circularNo": "EPFO/HQ/REV/2026/104",
+    "publishDate": "2026-10-21",
+    "effectiveDate": "2026-11-01",
+    "description": " TEST Comprehensive guidelines regarding mandatory Aadhaar linking for all active contributing members before filing monthly ECR.",
+    "downloadUrl": "https://raw.githubusercontent.com/stech-payroll/stech-payroll/main/epfo_advisory.pdf",
+    "status": "active",
+    "fileSizeKB": 340
+  }
+]
